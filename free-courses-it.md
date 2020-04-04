@@ -1,11 +1,13 @@
 ### Indice
 
-* [Algoritmi e Strutture Dati](#algoritmi-e-struture-dati)
+* [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
 * [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Assembly](#assembly)
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [C++](#c++)
+* [C++](#c-1)
+* [Database](#database)
+  * [SQL](#sql)
 * [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
@@ -13,6 +15,7 @@
 * [Java](#Java)
 * [Javascript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
 * [Programmazione](#programmazione)
@@ -25,12 +28,14 @@
   * [Git](#git)
   * [Maven](#maven)
 * [Web](#web)
+  * [Vue](#vue)
 * [Workshop](#workshop)  
 
 
 ### Algoritmi e Strutture Dati
 
 * [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/watch?v=opHFKVuDiYM&list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - A. Bogliolo
+* [Algoritmi e Programmazione (C)](https://www.youtube.com/playlist?list=PLUFFnpJdi99nqESTPaxlPMOF7yEEb8_sS) - P. Camurati (Politecnico di Torino)
 * [Algoritmi e Strutture Dati](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY) - R. Grossi (Università di Pisa)
 
 
@@ -61,6 +66,17 @@
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
 
 
+### Database
+
+* [Basi di dati](https://www.youtube.com/playlist?list=PLgaOrAQwrg9JZs6dbDolNlShHFgpJSChj) (M. De Ghetto)
+* [Basi di Dati](https://www.youtube.com/playlist?list=PLAQopGWlIcyZ7CN1sefdnCusfoodLP931) (T. Catarci)
+
+
+#### SQL
+
+* [Corso SQL](https://www.youtube.com/playlist?list=PLE555DB6188C967AC) (F. Camuso)
+
+
 ### Delphi
 
 * [Videocorso Delphi/Lazarus](https://www.youtube.com/watch?v=JxE1nUqriV0&list=PLF75FB30719A09FA2) (F. Camuso)
@@ -88,6 +104,7 @@
 ### Java
 
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
+* [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) (M. Torchiano)
 
 
 ### Javascript
@@ -99,6 +116,11 @@
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano) 
+
+
+### Mobile
+
+* [DART & FLUTTER (per il mobile)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x) (F. Camuso)
 
 
 ### Networking
@@ -123,7 +145,6 @@
 * [Programmazione](https://www.youtube.com/playlist?list=PLhEwqlL10MqN2eB3b4avX_DU3FK0EOYFa) - G. Filè (Università di Padova)
 * [Programmazione 2 (Java/C++)](http://latemar.science.unitn.it/segue/index.php?&amp;site=2008Programmazione2&amp;section=86&amp;action=site) - M. Ronchetti (Università di Trento)
 * [Tecniche di Programmazione (C/C++)](https://www.youtube.com/playlist?list=PLAQopGWlIcybv3YLRHGS4yZR00X3RvSBm) - L. Iocchi D. Nardi e A. Pretto (Università La Sapienza di Roma)
-* [Tecniche di Programmazione (Java)](https://elearning.polito.it/main/videolezioni/index.php?cidReq=2017_03FYZPL_0214659&id_session=0&gidReq=0&origin=&lp=1) - F. Corno (Politecnico di Torino) 
 
 
 ### Ruby
@@ -147,6 +168,9 @@
 
 ### Strumenti di sviluppo
 
+* [Visual Studio 2019](https://www.youtube.com/playlist?list=PLgaOrAQwrg9J04dWnY-FF4SXUFt-TEQkE) (Mario De Ghetto)
+
+
 #### Git
 
 * [Corso Git 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh) (POuLpolimi Politecnico di Milano)
@@ -159,7 +183,13 @@
 
 ### Web
 
+* [Interfacce grafiche (HTML/CSS/Bootstrap)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino (Politecnico di Torino)
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno e S. Di Carlo (Politecnico di Torino)
+
+
+#### Vue
+
+* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (F. Camuso)
 
 
 ### Workshop

@@ -293,8 +293,8 @@
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁) (繁体中文)
 * [编码规范](https://github.com/ecomfe/spec)
-* [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
-* [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
+* [让开发自动化系列专栏](https://wizardforcel.gitbooks.io/ibm-j-ap)
+* [追求代码质量](https://wizardforcel.gitbooks.io/ibm-j-cq)
 
 
 ## 语言相关
@@ -369,7 +369,6 @@
 ### Elasticsearch
 
 * [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
-* [ELKstack 中文指南](http://kibana.logstash.es)
 * [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
 
 
@@ -428,7 +427,7 @@
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
 * [CSS参考手册](http://css.doyoe.com)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
-* [HTML5 教程](http://www.w3school.com.cn/html5/)
+* [HTML5 教程](http://www.w3school.com.cn/html5/index.asp)
 * [HTML和CSS编码规范](http://codeguide.bootcss.com)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 * [前端代码规范](http://alloyteam.github.io/CodeGuide/) - 腾讯AlloyTeam团队
@@ -585,9 +584,7 @@
 
 ### Markdown
 
-* [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
 * [Markdown 简明教程](http://www.jianshu.com/p/7bd23251da0a)
-* [Markdown 语法说明](http://wowubuntu.com/markdown/)
 * [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
 
 
